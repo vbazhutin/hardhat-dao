@@ -1,0 +1,9 @@
+node_modules
+.env
+artifacts
+cache
+deployments
+proposals.json
+
+// configs for easier verification
+*Args.js
